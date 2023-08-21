@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "*.embeddedhtml": "html",
+        "STUDconsume.C": "cpp",
+        "stumana.C": "cpp",
+        "tongxun.C": "cpp"
+    }
+}

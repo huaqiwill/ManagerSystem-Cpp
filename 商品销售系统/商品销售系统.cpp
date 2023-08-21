@@ -1,5 +1,10 @@
-
-/* 【自学去】网站收集 http://www.zixue7.com */
+/** File KTVSystem.cpp KTV歌曲系统
+ * 项目地址：
+ * CSDN博客：https://blog.csdn.net/HuaQi666
+ * 开发者：http://bingbingfuhao.cn
+ * 邮箱：3173484026@qq.com
+ * 创建时间: 2023/8/21
+ */
 
 #include <stdio.h>	//头文件
 #include <string.h> //头文件
